@@ -3,7 +3,7 @@
 
   # Keyur Gohel
 
-  ### Data Analyst | Full-Stack Developer | Machine Learning Enthusiast
+  ### Data Science & Machine Learning Enthusiast
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keyur2103)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keyur.gohel2015@gmail.com)
