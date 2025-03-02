@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Keyur+Gohel+%F0%9F%91%8B;Data+Science+Graduate+Student;Aspiring+Data+Analyst;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Keyur+Gohel+%F0%9F%91%8B;Data+Science+Graduate+Student;Aspiring+Machine+Learning+Engineer;Lifelong+Learner" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -32,8 +32,8 @@
     <li>🎓 Master of Data Science Student @ University of Melbourne</li>
     <li>💼 Computer Science Graduate with a passion for data</li>
     <li>📊 Currently enhancing my skills in EDA, Pandas, NumPy & Matplotlib</li>
-    <li>🔍 Working on data analysis projects to build my portfolio</li>
-    <li>💡 Actively seeking opportunities in Data Science & Analytics</li>
+    <li>🔍 Working on Data Analysis and Machine Learning Projects</li>
+    <li>💡 Actively seeking opportunities in Data Science & Machine Learning</li>
     <li>🌱 Learning ML algorithms, statistical analysis, and data visualization</li>
   </ul>
 </div>
